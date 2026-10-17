@@ -1,0 +1,11 @@
+CustomerID,CustomerName,City,ReferrerID
+1,Arun,Coimbatore,
+2,Bala,Chennai,1
+3,Charan,Madurai,1
+4,Divya,Coimbatore,2
+5,Ezhil,Salem,2
+6,Farah,Chennai,3
+7,Gokul,Trichy,
+8,Hari,Salem,7
+9,Indhu,Madurai,7
+10,Jaya,Coimbatore,4
